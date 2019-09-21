@@ -1,0 +1,22 @@
+{
+  "name": "oojs-book-notes",
+  "version": "0.0.1",
+  "description": "Notes on and source code from chapter 4 of the 2014 book \"Principles of Object-Oriented JavaScript\" by Nicholas C. Zakas",
+  "author": "Lucas Baerenfaenger (@lambdarookie, lambdarookie.com)",
+  "main": "src/app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lambdarookie/oojs-book-notes.git"
+  },
+  "scripts": {
+    "lint": "jshint src/ || exit 0",
+    "execute": "node src/app.js",
+    "all": "(jshint src/ || exit 0) && node src/app.js"
+  },
+  "dependencies": {
+    "npm": "^6.9.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.10.2"
+  }
+}
