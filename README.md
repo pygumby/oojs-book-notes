@@ -1,3 +1,8 @@
+> ### 🚨 My GitHub account name and domain have changed since I created this repository!
+> **When I originally created this repository, my GitHub account was `@lambdarookie` and my domain was `lambdarookie.com`.
+> These might be referenced within this repository.
+> Note that my current GitHub account is `@lkbaerenfaenger` and my current domain is `lkbaerenfaenger.com`.**
+
 # oojs-book-notes
 
 **Notes on and source code from chapter 4 of the 2014 book "Principles of Object-Oriented JavaScript" by Nicholas C. Zakas**
